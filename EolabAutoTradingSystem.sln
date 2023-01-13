@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EolabAutoTradingSystem", "EolabAutoTradingSystem\EolabAutoTradingSystem.csproj", "{F272BB5B-4EC1-4B2E-8874-902A4FE2470C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EolabAutoTrading(Ornda)", "EolabAutoTrading(Ornda)\EolabAutoTrading(Ornda).vdproj", "{3C644D44-2258-4B38-9626-C7C6ED1B96EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{20F599EB-F59F-4BD4-8F92-ECE43800B93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F272BB5B-4EC1-4B2E-8874-902A4FE2470C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F272BB5B-4EC1-4B2E-8874-902A4FE2470C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F272BB5B-4EC1-4B2E-8874-902A4FE2470C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F272BB5B-4EC1-4B2E-8874-902A4FE2470C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C644D44-2258-4B38-9626-C7C6ED1B96EB}.Debug|Any CPU.ActiveCfg = Debug
+		{3C644D44-2258-4B38-9626-C7C6ED1B96EB}.Release|Any CPU.ActiveCfg = Release
+		{20F599EB-F59F-4BD4-8F92-ECE43800B93E}.Debug|Any CPU.ActiveCfg = Debug
+		{20F599EB-F59F-4BD4-8F92-ECE43800B93E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85B2615-7389-4DBC-8F67-D52032B856CE}
+	EndGlobalSection
+EndGlobal
